@@ -8,6 +8,7 @@
     <ul>
         <li>Vagrant</li>
         <li>Docker-criando-containers</li>
+        <li>Docker-compose</li>
         <li>Ansible</li>
         <li>Integração Continuada RACO</li>
     </ul>
